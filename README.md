@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Networking and Cloud native Projects**
 
-- 🤝 I’m looking for help with **ML / Software / Network / Cloud Engineer**
+- 🤝 I’m interested **ML / Software / Network / Cloud Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luxshan21](https://github.com/luxshan21)
 

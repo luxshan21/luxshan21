@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **s.s.luxshan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pUb75ySoMUiB5Lx3vt6zZ7sNewqiJ_Z3/view?usp=sharing](https://drive.google.com/file/d/1pUb75ySoMUiB5Lx3vt6zZ7sNewqiJ_Z3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pUb75ySoMUiB5Lx3vt6zZ7sNewqiJ_Z3/view?usp=sharing](https://drive.google.com/file/d/1OWzx8Ucbz5mGSwsszp-mFPBKE4Ua0sSM/view?usp=sharing)
 
 - ⚡ Fun fact **I play cricket**
 

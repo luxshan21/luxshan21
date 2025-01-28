@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luxshan Sugendran</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-- 👯 I’m looking to collaborate on  Software, Machine Learning, Networking, Cloud native and Freelancer Projects
+- 👯 I’m looking to collaborate on  Software, Machine Learning, Networking and Cloud native Projects
 
 - 🤝 I’m interested  Software / ML / Network / Cloud Engineer 
 

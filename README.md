@@ -15,7 +15,7 @@
   
 - 📄 Transcript https://drive.google.com/file/d/1gYVPpy2hft-XMb76HBz6-GV0p66iKMRg/view?usp=sharing.
 
-- ⚡ Fun fact **I play cricket**
+- ⚡ Hobbies **cricket, Drawings, Gardening**
 
 
 

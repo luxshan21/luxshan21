@@ -28,9 +28,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luxshan21&show_icons=true&theme=radical" alt="Luxshan's GitHub Stats"/>
 </p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxshan21&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxshan21&theme=radical" alt="GitHub Streak"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxshan21&layout=compact&theme=radical" alt="Most Used Languages"/>
-</p>
+

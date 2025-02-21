@@ -25,9 +25,11 @@
 ---
 <h3 align="left">🚀 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxshan21&show_icons=true&theme=radical" alt="Luxshan's GitHub Stats" height="180px" style="margin-right: 300px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxshan21&layout=compact&theme=radical" alt="Most Used Languages" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luxshan21&theme=gotham" alt="Repos Per Language" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luxshan21&theme=gotham" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luxshan21&theme=gotham" alt="Profile Details" height="180px"/>
 </p>
+
 
 
 

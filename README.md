@@ -28,9 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luxshan21&show_icons=true&theme=radical" alt="Luxshan's GitHub Stats" height="180px" style="margin-right: 300px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxshan21&layout=compact&theme=radical" alt="Most Used Languages" height="180px"/>
 </p>
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxshan21&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
 
 
 

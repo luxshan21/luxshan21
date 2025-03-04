@@ -15,6 +15,8 @@
   
 - 📄 Transcript https://drive.google.com/file/d/1gYVPpy2hft-XMb76HBz6-GV0p66iKMRg/view?usp=sharing.
 
+- 📄 Degree Certificate https://drive.google.com/file/d/1QgOIvUtQ8nmveLe73M7wFA14ICogpF0O/view?usp=sharing. 
+
 - ⚡ Hobbies **cricket, Drawings, Gardening**
 
 
